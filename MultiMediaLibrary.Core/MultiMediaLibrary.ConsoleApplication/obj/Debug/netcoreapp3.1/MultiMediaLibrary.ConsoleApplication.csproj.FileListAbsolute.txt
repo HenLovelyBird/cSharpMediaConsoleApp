@@ -1,0 +1,3 @@
+/Users/heni/Documents/Strive/C#/GroupDay/multi-media-library-master/MultiMediaLibrary.Core/MultiMediaLibrary.ConsoleApplication/obj/Debug/netcoreapp3.1/MultiMediaLibrary.ConsoleApplication.csprojAssemblyReference.cache
+/Users/heni/Documents/Strive/C#/GroupDay/multi-media-library-master/MultiMediaLibrary.Core/MultiMediaLibrary.ConsoleApplication/obj/Debug/netcoreapp3.1/MultiMediaLibrary.ConsoleApplication.AssemblyInfoInputs.cache
+/Users/heni/Documents/Strive/C#/GroupDay/multi-media-library-master/MultiMediaLibrary.Core/MultiMediaLibrary.ConsoleApplication/obj/Debug/netcoreapp3.1/MultiMediaLibrary.ConsoleApplication.AssemblyInfo.cs

@@ -1,0 +1,29 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{365E4ACB-BC2B-4E3D-9581-86EAC1FFE088}|Default">
+  <MonoDevelop.Ide.ItemProperties.MultiMediaLibrary.ConsoleApplication PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultiMediaLibrary.Core/MediaLibrary.cs">
+    <Files>
+      <File FileName="MultiMediaLibrary.Core/MediaLibrary.cs" Line="1" Column="1" />
+      <File FileName="MultiMediaLibrary.Core/MultiMediaItem.cs" Line="1" Column="1" />
+      <File FileName="MultiMediaLibrary.Core/Media_Library_Database.csv" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MultiMediaLibrary.Core" expanded="True">
+            <Node name="MediaLibrary.Core" expanded="True">
+              <Node name="MediaLibrary.cs" selected="True" />
+            </Node>
+            <Node name="MultiMediaLibrary.ConsoleApplication" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MediaLibrary.Core PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
